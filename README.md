@@ -1,51 +1,63 @@
-# Kwadwo Amoah Asumadu
+<h1 align="center">Kwadwo Asumadu</h1>
 
-**Software engineer building secure, data-intensive systems and applied ML.**
+<p align="center">
+  <b>Software engineer building secure, data-intensive systems and applied ML.</b>
+  <br>
+  <sub>Backend engineering · Data systems · Applied ML</sub>
+</p>
 
-I work mainly on backend systems and APIs: relational data models, business
-rules enforced on the server and in the database, authentication, and the tests
-that keep them correct. I also build and evaluate machine learning models where
-a problem calls for one.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kwadwo-asumadu/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/aakwadwo/case-studies">Case studies</a>
+</p>
 
-I build products under [KAS Maven Consult](https://www.linkedin.com/company/kas-maven-consult/),
-an enterprise software company. I am also in the early research and planning
-stage of [Vorth](https://github.com/aakwadwo/vorth-study), which focuses on
-software-based systems engineering and optimisation.
+<br>
 
-## Products and client work
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.linkedin.com/company/kas-maven-consult/">
+        <img src="https://raw.githubusercontent.com/aakwadwo/case-studies/main/assets/kas-maven-consult.png" height="72" alt="KAS Maven Consult logo">
+      </a>
+      <br><sub><b>KAS Maven Consult</b><br>Company</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/aakwadwo/case-studies/blob/main/campus-dash.md">
+        <img src="https://raw.githubusercontent.com/aakwadwo/case-studies/main/assets/campus-dash.jpeg" height="72" alt="Campus Dash logo">
+      </a>
+      <br><sub><b>Campus Dash</b><br>KAS Maven product</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/aakwadwo/case-studies/blob/main/kasem.md">
+        <img src="https://raw.githubusercontent.com/aakwadwo/case-studies/main/assets/kasem.png" height="72" alt="Kasem logo">
+      </a>
+      <br><sub><b>Kasem</b><br>KAS Maven product</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/aakwadwo/case-studies/blob/main/youth-parliament.md">
+        <img src="https://raw.githubusercontent.com/aakwadwo/case-studies/main/assets/youth-parliament-ghana.jpg" height="72" alt="Youth Parliament Ghana logo">
+      </a>
+      <br><sub><b>Youth Parliament Ghana</b><br>Commissioned work</sub>
+    </td>
+  </tr>
+</table>
 
-Source code for these is private. Each case study covers the problem, my role
-and the main engineering decisions.
+<br>
 
-- **Campus Dash** (KAS Maven Consult): a campus ordering and delivery platform
-  with real users. I am its primary designer and developer. Order and payment
-  state are enforced in PostgreSQL, and external providers sit behind
-  interfaces. Next.js, Supabase. [Case study](https://github.com/aakwadwo/case-studies/blob/main/campus-dash.md)
-- **Youth Parliament voting platform**: commissioned by the National Youth
-  Parliament of Ghana and used for its 2026 re-election round. I was the sole
-  developer. Ballot secrecy is enforced by the schema, and eligibility checks
-  run in a single database transaction. Next.js, PostgreSQL. [Case study](https://github.com/aakwadwo/case-studies/blob/main/youth-parliament.md)
-- **Kasem** (KAS Maven Consult): an anonymous reporting and case-management
-  product for organisations. [Case study](https://github.com/aakwadwo/case-studies/blob/main/kasem.md)
+### Selected work
 
-## Public projects
+| Project | Focus |
+|---|---|
+| [**Youth Parliament Ghana**](https://github.com/aakwadwo/case-studies/blob/main/youth-parliament.md) | Voting platform. Sole developer, used for the 2026 re-election. |
+| [**Campus Dash**](https://github.com/aakwadwo/case-studies/blob/main/campus-dash.md) | Campus food ordering platform, in use. KAS Maven Consult. <sub><a href="https://campusdash.app">Live product ↗</a></sub> |
+| [**Kasem**](https://github.com/aakwadwo/case-studies/blob/main/kasem.md) | Anonymous reporting and case management. KAS Maven Consult. <sub><a href="https://kasem.app">Live product ↗</a></sub> |
+| [**Mining Surveillance**](https://github.com/aakwadwo/mining-surveillance-system) | Computer vision: retrained YOLO detector, Flask API. Extended group project. |
+| [**Credit Risk System**](https://github.com/aakwadwo/credit-risk-system) | Applied ML: XGBoost, MLflow, FastAPI, drift monitoring. Coursework. |
+| [**IMDB Sentiment Analysis**](https://github.com/aakwadwo/nlp-sentiment-imdb) | NLP: TF-IDF, LSTMs and DistilBERT compared. Coursework. |
 
-- **[mining-surveillance-system](https://github.com/aakwadwo/mining-surveillance-system)**:
-  detects mining equipment in camera and drone imagery with a retrained YOLO
-  model, a Flask inference API and a map dashboard. Extended from an inherited
-  group-project baseline.
-- **[credit-risk-system](https://github.com/aakwadwo/credit-risk-system)**:
-  loan-default prediction pipeline with XGBoost, MLflow tracking, a FastAPI
-  service and score-drift monitoring. Coursework.
-- **[nlp-sentiment-imdb](https://github.com/aakwadwo/nlp-sentiment-imdb)**:
-  compares TF-IDF baselines, LSTMs and fine-tuned DistilBERT for sentiment
-  classification, with error analysis. Coursework.
+<br>
 
-## Skills
-
-- **Languages:** Python, JavaScript, TypeScript, SQL
-- **Backend and data:** Next.js, FastAPI, Flask, PostgreSQL, Supabase, MySQL, SQLAlchemy, JWT authentication
-- **Machine learning:** PyTorch, scikit-learn, XGBoost, Hugging Face Transformers, Ultralytics YOLO, MLflow
-- **Tooling:** Docker, Git, pytest, `node:test`, Vercel
-
-[LinkedIn](https://www.linkedin.com/in/kwadwo-asumadu/)
+<p align="center">
+  <sub>Early-stage research: <a href="https://github.com/aakwadwo/vorth-study">Vorth</a>, software-based systems engineering and optimisation.</sub>
+</p>
