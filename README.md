@@ -1,4 +1,4 @@
-<h1 align="center">Kwadwo Asumadu</h1>
+<h1 align="center">Kwadwo Amoah Asumadu</h1>
 
 <p align="center">
   <b>Software engineer building secure, data-intensive systems and applied ML.</b>
